@@ -1,0 +1,25 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xebia-achaudhari/test.git"
+  },
+  "author": "amit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xebia-achaudhari/test/issues"
+  },
+  "homepage": "https://github.com/xebia-achaudhari/test#readme",
+  "devDependencies": {
+    "lodash": "^4.11.1"
+  }
+}
