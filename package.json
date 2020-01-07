@@ -19,7 +19,7 @@
     "url": "https://github.com/xebia-achaudhari/test/issues"
   },
   "homepage": "https://github.com/xebia-achaudhari/test#readme",
-  "devDependencies": {
-    "lodash": "^4.11.1"
+  "dependencies": {
+    "lodash": "4.11.1"
   }
 }
