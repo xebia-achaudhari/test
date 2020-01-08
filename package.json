@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/xebia-achaudhari/test#readme",
   "dependencies": {
-    "lodash": "4.11.1"
+    "lodash": "4.17.13"
   }
 }
